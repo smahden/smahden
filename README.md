@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<p align="center"> I'm a Bachelor of Science in Computer Science student that likes to code for fun!</p>
+<p align="center"> I'm a person that likes to code for fun!</p>
